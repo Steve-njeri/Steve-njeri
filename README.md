@@ -4,12 +4,12 @@
 
 
 
-I currently work as an Android Developer and I maintain/develop various app that are widely used acrossed Kenya.
+I'm a Mobile/Android/Software Developer and I maintain/develop various applications that are widely used acrossed the world.
 
 
 
 
-<img align='right' src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
+<img align='center' src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
 
 ## Tech Stack :computer: (My Skills)
 
