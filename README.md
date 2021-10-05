@@ -1,11 +1,6 @@
-[![Linkedin](https://img.shields.io/badge/peter-wachira-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peter-wachira/)](https://www.linkedin.com/in/peter-wachira/)
-[![Gitlab](https://img.shields.io/badge/Gitlab%20-blue?style=flat&logo=Gitlab&logoColor=white)](https://www.gitlab.com/peter-wachira)
-[![Gmail](https://img.shields.io/badge/-pwachira900@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:pwachira900@gmail.com)](mailto:pwachira900@gmail.com)
-[![CodeWars](https://img.shields.io/badge/CodeWars%20-brightgreen.svg)](https://www.codewars.com/users/peethack)
+# Hi, I'm Steve-Njeri
 
-# Hi, I'm Peter.
-
-#### Welcome to my Dojo!
+#### Welcome to my Dev-world
 
 
 
@@ -102,24 +97,4 @@ I currently work as an Android Developer and I maintain/develop various app that
     </td>
 </tr>
 </table>
-
-
-### 🎉 Things that make me, me
-
-*  I love teaching others about tech & programming & collaborating with other amazing devs 🤼
-*  I love to learn and am always watching videos or reading blogs about different tech/dev based topics to enhance my knowledge. 📚
-*  I appreciate good music. Currently learning to play the guitar 🎸
-*  Lets connect: https://peterwachira.com/
-
-## My Projects
-
-Check out some of my more interesting production-level projects (in no particular order):
-https://peterwachira.com/
-
-[![Peter's github stats](https://github-readme-stats.vercel.app/api?username=peter-wachira)](https://github.com/laisbsc/github-readme-stats)
-
-<!-- 
-[![Peter's github stats](https://github-readme-stats.vercel.app/api?username=peter-wachira&show_icons=true&title_color=d128d4&icon_color=28d442&text_color=dbdae3&bg_color=162024)](https://github.com/peter-wachira) -->
-
->
 
