@@ -9,7 +9,7 @@ I'm a Mobile/Android/Software Developer and I maintain/develop various applicati
 
 
 
-<img align='Right' src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
+<img align='Left' src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
 
 ## Tech Stack :computer: (My Skills)
 
