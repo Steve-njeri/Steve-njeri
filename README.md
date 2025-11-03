@@ -4,7 +4,7 @@
 
 
 
-I'm a Mobile/Android/Software Developer and I maintain/develop various applications that are widely used acrossed the world.
+I'm a Mobile/Android/Web & Software Developer and I maintain/develop various applications that are widely used across the world.
 
 
 
